@@ -1,132 +1,132 @@
 {
   " KIDS": [
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD|  JoJo MaMa ᴴᴰ",
+      "name": "JoJo MaMa ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=129849"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD|  Krd Cartoon 2 ᴴᴰ",
+      "name": " Krd Cartoon 2 ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=129859"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| ZAROK TV",
+      "name": "ZAROK TV",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=525990"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD|  Krd Pink Panther ᴴᴰ",
+      "name": " Krd Pink Panther ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=129873"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KU| JoJo MaMa KU",
+      "name": "JoJo MaMa KU",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=86243"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| NRT 3 Kids ᴴᴰ ku",
+      "name": " NRT 3 Kids ᴴᴰ ku",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=129976"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| NRT3 Kids",
+      "name": "NRT3 Kids",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=280416"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| Afarin Baxcha TV",
+      "name": " Afarin Baxcha TV",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312558"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| DASINYA KIDS ᴴᴰ",
+      "name": " DASINYA KIDS ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312577"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| KRD Cartoon 2 ᴴᴰ",
+      "name": " KRD Cartoon 2 ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312601"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| KRD Looney Tunes ᴴᴰ",
+      "name": " KRD Looney Tunes ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312610"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| KRD Pink Panther ᴴᴰ",
+      "name": " KRD Pink Panther ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312614"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| KRD Shaun The Sheep ᴴᴰ",
+      "name": " KRD Shaun The Sheep ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312616"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| KRD Tatlises ᴴᴰ",
+      "name": " KRD Tatlises ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312617"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| KRD Tom & Jerry ᴴᴰ",
+      "name": " KRD Tom & Jerry ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312618"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| MMN KIDS ᴴᴰ",
+      "name": " MMN KIDS ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312643"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| Newline Kids ᴴᴰ",
+      "name": "Newline Kids ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312649"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| Newmax Kids ᴴᴰ",
+      "name": " Newmax Kids ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312652"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| NIGA KIDS ᴴᴰ",
+      "name": "NIGA KIDS ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312657"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| Niga Kids ᴴᴰ",
+      "name": " Niga Kids ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312658"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| Shakrok Kids",
+      "name": " Shakrok Kids",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312685"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| NEWMAX KIDS ᴴᴰ",
+      "name": "NEWMAX KIDS ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312743"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| SHAKROK KIDS",
+      "name": "SHAKROK KIDS",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=312745"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| AFARIN KIDS ᴴᴰ",
+      "name": "AFARIN KIDS ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=280453"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| ARO KIDS ᴴᴰ",
+      "name": " ARO KIDS ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=280430"
     },
     {
-      "name": "pin_small_front,wide_portrait,750x1000.jpg\" group-title=\" KIDS\",|KRD| ASTERA BABY ᴴᴰ",
+      "name": " ASTERA BABY ᴴᴰ",
       "logo": "https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",
       "url": "https://allinonereborn.xyz/airteltv-web/live.php?id=280456"
     }
